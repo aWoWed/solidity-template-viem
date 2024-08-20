@@ -1,0 +1,27 @@
+# directories
+.coverage_artifacts
+.coverage_cache
+.coverage_contracts
+.vscode
+.yarn
+artifacts
+build
+cache
+coverage
+dist
+docgen
+docs
+deployments
+node_modules
+types
+typechain-types
+test
+
+
+# files
+.env
+.log
+.pnp.*
+coverage.json
+npm-debug.log
+yarn-debug.log
